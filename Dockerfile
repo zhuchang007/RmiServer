@@ -1,4 +1,4 @@
-FROM registry.cn-shenzhen.aliyuncs.com/zhuchang007/jdk8
+FROM registry.cn-shenzhen.aliyuncs.com/zhuchang007/jdk8:1.0
 MAINTAINER zhuchang007
 
 WORKDIR /usr/RmiServer/bin
